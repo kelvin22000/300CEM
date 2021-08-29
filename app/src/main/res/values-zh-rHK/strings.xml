@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="content_description_google_translate_attribution">Powered by Google Translate</string>
+    <string name="overlay_help">Center text in box</string>
+    <string name="downloading_model_files">Downloading model files…</string>
+    <string name="app_name">中文</string>
+    <string name="input">輸入文字</string>
+    <string name="output">翻譯結果</string>
+    <string name="english">英文</string>
+    <string name="chinese">中文</string>
+    <string name="answer">答案</string>
+    <string name="button1">確認</string>
+    <string name="button2">加入單詞本</string>
+    <string name="button3">刪除</string>
+    <string name="button4">答案</string>
+    <string name="button5">下一個</string>
+    <string name="button6">退出</string>
+    <string name="login">登錄</string>
+    <string name="register">註冊</string>
+    <string name="email">郵箱</string>
+    <string name="password">密碼</string>
+    <string name="submit">提交</string>
+    <string name="function1">翻譯</string>
+    <string name="function2">單詞本</string>
+    <string name="function3">溫習</string>
+    <string name="function4">圖像掃描</string>
+    <string name="text">測試</string>
+    <string name="page1">頁面1</string>
+</resources>
